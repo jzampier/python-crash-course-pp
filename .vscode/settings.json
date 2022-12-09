@@ -1,6 +1,0 @@
-{
-    "python.linting.pylintPath":"C:/Users/julio/AppData/Local/Programs/Python/Python311/Scripts/pylint.exe",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "python.formatting.provider": "black"
-}
