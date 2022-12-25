@@ -1,3 +1,4 @@
+Aula131
 """Databases
 - Holding information
 - Webservers
@@ -24,5 +25,19 @@
 -NoSQL database
 -Data Store (Big data)
 
+
+"""
+Aula132
+""""
+- Data is stored in entities called Tables where columns are fields and rows
+are the value of data
+
+- Theory of the sets - Relational algebra
+- Entity (table) - Company , People,
+- Atributes - Fields, Columns,
+- Registers - Rows, Tuples,
+- Primary Key - Allow us to distinguish each registered row
+- Foreign Key - When a primary key migrates to a different table to stabilish a
+relation and allow us to identify a record
 
 """
