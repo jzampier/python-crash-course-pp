@@ -41,3 +41,10 @@ are the value of data
 relation and allow us to identify a record
 
 """
+Aula 133
+NoSQL Databases
+Allow more scalable architecture than SQL
+- Documents > Millions of Documents
+- Graph > Social media, connections and interconnections
+- Key-value > Data stored in dictionary shape (key - value)
+- Wide-Column > queries are based on keys
