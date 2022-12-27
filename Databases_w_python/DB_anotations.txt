@@ -48,3 +48,18 @@ Allow more scalable architecture than SQL
 - Graph > Social media, connections and interconnections
 - Key-value > Data stored in dictionary shape (key - value)
 - Wide-Column > queries are based on keys
+"""
+
+"""
+Aula 134
+
+Mainly used Databases
+
+- Oracle
+- MySQL
+- Microsoft SQL Server
+- PostgreSQL
+- MongoDB (NoSQL)
+- Redis (NoSQL)
+- SQLite
+
