@@ -63,3 +63,6 @@ Mainly used Databases
 - Redis (NoSQL)
 - SQLite
 
+Aula 135
+-Installation
+-SQLite just need to install SQLite Browser
