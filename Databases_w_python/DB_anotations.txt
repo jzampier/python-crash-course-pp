@@ -66,3 +66,6 @@ Mainly used Databases
 Aula 135
 -Installation
 -SQLite just need to install SQLite Browser
+
+Aula 136
+- MySQL Installation and setup
