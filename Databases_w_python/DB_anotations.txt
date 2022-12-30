@@ -69,3 +69,7 @@ Aula 135
 
 Aula 136
 - MySQL Installation and setup
+
+Aula 137
+- MongoDB Installation and setup
+- Installed 4.0
