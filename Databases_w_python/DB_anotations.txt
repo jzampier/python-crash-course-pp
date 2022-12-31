@@ -73,3 +73,26 @@ Aula 136
 Aula 137
 - MongoDB Installation and setup
 - Installed 4.0
+
+Aula 138
+- Arquitetura de Banco de Dados
+- Modelagem Conceitual
+- Modelo Relacional
+- Algebra e Calculo Relacional
+- Linguagem SQL
+- Projeto de Banco de Dados
+- Tecnicas de Programacao
+- Normalizacao de Projeto
+- Estrutura de Arquivos
+
+- [[DQL]] - Data Query Language
+- [[DML]] - Data Manipulation Language
+- [[DDL]] - Data Definition Language
+- [[DCL]] - Data Control Language
+- [[DTL]]  - Data Transaction Language
+
+### Interfacement with Databases
+- Client/Server
+- Not CaSe SeNsItIvE
+- Comands can be written in more than one line
+- Different conditions usually are written in different rows
