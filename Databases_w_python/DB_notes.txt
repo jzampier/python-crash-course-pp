@@ -96,3 +96,6 @@ Aula 138
 - Not CaSe SeNsItIvE
 - Comands can be written in more than one line
 - Different conditions usually are written in different rows
+
+Aula 139
+- Model Definition
