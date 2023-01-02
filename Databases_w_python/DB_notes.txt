@@ -99,3 +99,7 @@ Aula 138
 
 Aula 139
 - Model Definition
+
+Aula 140
+- Creating a new database using SQLite
+- creating a new table using SQLite
