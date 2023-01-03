@@ -103,3 +103,6 @@ Aula 139
 Aula 140
 - Creating a new database using SQLite
 - creating a new table using SQLite
+
+Aula 141
+- Create Skills table
