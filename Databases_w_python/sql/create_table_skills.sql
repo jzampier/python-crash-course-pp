@@ -1,5 +1,4 @@
 CREATE TABLE IF NOT EXISTS "skills" (
-    "skill_id" INTEGER NOT NULL ,
     "name" varchar(30) NOT NULL,
     "field_of_work" varchar(20) CHECK(
         "field_of_work" in (
@@ -10,5 +9,6 @@ CREATE TABLE IF NOT EXISTS "skills" (
             'OTHER'
         )
     ),
-    PRIMARY KEY ("skill_id" AUTOINCREMENT)
+    "id" INTEGER NOT NULL ,
+    PRIMARY KEY ("id" AUTOINCREMENT)
 );
