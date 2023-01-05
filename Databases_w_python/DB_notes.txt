@@ -106,3 +106,10 @@ Aula 140
 
 Aula 141
 - Create Skills table
+
+Aula 143
+- Create Index - Database_components to haste data acess
+    - it creates a new table with indexes
+- Index can be associated to a column or columns combination.
+- We can create multiple indexes in the same table
+- avoid duplicate values

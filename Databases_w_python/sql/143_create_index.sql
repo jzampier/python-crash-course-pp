@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX employee_rg ON employees(rg);
